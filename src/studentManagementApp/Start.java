@@ -86,7 +86,7 @@ public class Start {
     		   break;
     	   }
     	   else {
-    		   
+    		  System.out.println("Entered Invalid Number, Please Enter again."); 
     	   }
        }
        System.out.println("Thankyou for using my application");
